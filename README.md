@@ -1,7 +1,8 @@
-# prediction-of-default-credit-card <br>
+# <b><img src="https://user-images.githubusercontent.com/52337446/135584013-7a13d844-18bd-4625-82f7-7671e3917166.png" height=50px  width=50px></img> prediction-of-default-credit-card <br>
 ![image](https://user-images.githubusercontent.com/52337446/135583605-5d186493-06c8-4140-afbf-122c824650a9.png)
 
-<b>When does credit card goes on default?</b><br>
+
+When does credit card goes on default?</b><br>
 When you accept a credit card, you agree to certain terms. For example, you agree to make your minimum payment by the due date listed on your credit card statement. If you miss the minimum credit card payment six months in a row, your credit card will be in default.
 <br>
 
